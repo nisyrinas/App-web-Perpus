@@ -10,6 +10,7 @@ diri mahasiswa pada saat proses peminjaman buku.
 4. Processor	AMD Ryzen 5 7520U with Radeon Graphics           2.80 GHz
 5. Installed RAM	16.0 GB (15.3 GB usable)
 6. System type	64-bit operating system, x64-based processor
+7. Sidik jari HID 4500
 
 ## Software
 - xampp-windows-x64-8.1.25-0-VS16-installer
@@ -22,3 +23,4 @@ Chromium: 120.0.6099.291
 Node.js: 18.18.2
 V8: 12.0.267.19-electron.0
 OS: Windows_NT x64 10.0.22621
+- SDK Flexcode dari fingerspot.
